@@ -1,0 +1,6 @@
+C:\Users\magic\Desktop\Rimworld Mods\OTHER MODS\Armor Is Uncomfortable\Source\ArmorIsUncomfortable\bin\Release\ArmorIsUncomfortable.dll
+C:\Users\magic\Desktop\Rimworld Mods\OTHER MODS\Armor Is Uncomfortable\Source\ArmorIsUncomfortable\bin\Release\ArmorIsUncomfortable.pdb
+C:\Users\magic\Desktop\Rimworld Mods\OTHER MODS\Armor Is Uncomfortable\Source\ArmorIsUncomfortable\obj\Release\ArmorIsUncomfortable.csprojAssemblyReference.cache
+C:\Users\magic\Desktop\Rimworld Mods\OTHER MODS\Armor Is Uncomfortable\Source\ArmorIsUncomfortable\obj\Release\ArmorIsUncomfortable.csproj.CoreCompileInputs.cache
+C:\Users\magic\Desktop\Rimworld Mods\OTHER MODS\Armor Is Uncomfortable\Source\ArmorIsUncomfortable\obj\Release\ArmorIsUncomfortable.dll
+C:\Users\magic\Desktop\Rimworld Mods\OTHER MODS\Armor Is Uncomfortable\Source\ArmorIsUncomfortable\obj\Release\ArmorIsUncomfortable.pdb

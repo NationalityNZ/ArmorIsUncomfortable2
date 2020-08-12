@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+  <AIU_HoursUntilUncomfortable_title>Hours Until Uncomfortable</AIU_HoursUntilUncomfortable_title>
+  <AIU_HoursUntilUncomfortable_desc>The number of hours it takes for a pawn with 1 discomfort to get a mood penalty. Having higher discomfort will speed this up considerably.</AIU_HoursUntilUncomfortable_desc>
+  <AIU_DiscomfortRecoveryMultiplier_title>Discomfort Recovery Multiplier</AIU_DiscomfortRecoveryMultiplier_title>
+  <AIU_DiscomfortRecoveryMultiplier_desc>How fast a pawn recovers from being uncomfortable. At 1, it takes 1 hour to recover from 1 hours of wearing uncomfortable clothes at discomfort 1. At 2, it takes 30 minutes from to recover from 1 hour of uncomfortable clothes, at 0.5 it takes 2 hours, etc.</AIU_DiscomfortRecoveryMultiplier_desc>
+  <AIU_GlobalDiscomfortMultiplier_title>Global Discomfort Multiplier</AIU_GlobalDiscomfortMultiplier_title>
+  <AIU_GlobalDiscomfortMultiplier_desc>A pawn's total discomfort will be multiplied by this amount. Set this low if you feel pawns get uncomfortable too easy, or higher for the opposite effect.</AIU_GlobalDiscomfortMultiplier_desc>
+  <AIU_DisableThought_title>Disable</AIU_DisableThought_title>
+  <AIU_DisableThought_desc>Turns off the uncomfortable apparel thought and pauses the apparel comfort need, but doesn't actually completely disable every system. Use this if you are running into issues.</AIU_DisableThought_desc>
+</LanguageData>
+
